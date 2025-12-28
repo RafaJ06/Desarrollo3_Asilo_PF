@@ -1,0 +1,16 @@
+D:\ProyectoFinal\Caja\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+D:\ProyectoFinal\Caja\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+D:\ProyectoFinal\Caja\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+D:\ProyectoFinal\Caja\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+D:\ProyectoFinal\Caja\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Principal.resources
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,15 @@
+namespace WinFormsApp1
+{
+    public partial class LogIn : Form
+    {
+        public LogIn()
+        {
+            InitializeComponent();
+        }
+
+        private void tbUser_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
