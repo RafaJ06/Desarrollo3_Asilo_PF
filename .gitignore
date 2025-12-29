@@ -1,0 +1,24 @@
+# --- Directorios de compilación (Binarios) ---
+[Bb]in/
+[Oo]bj/
+
+# --- Archivos de Visual Studio ---
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# --- Archivos de caché y temporales ---
+*.log
+*.tmp
+*.cache
+
+# --- Paquetes de NuGet ---
+packages/
+*.nuget.props
+*.nuget.targets
+
+# --- Archivos de Test y Cobertura ---
+TestResults/
+*.opencoverxml
