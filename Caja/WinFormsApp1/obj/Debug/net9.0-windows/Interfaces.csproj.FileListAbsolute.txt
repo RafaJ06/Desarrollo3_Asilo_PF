@@ -17,3 +17,7 @@ D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.LogIn.r
 D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.Main.resources
 D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.Properties.Resources.resources
 D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.sourcelink.json
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.PagoServicio.resources
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.CierreCaja.resources
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.InicioCaja.resources
+D:\ProyectoFinal\Caja\WinFormsApp1\obj\Debug\net9.0-windows\Interfaces.seEfectivo.resources

@@ -81,5 +81,99 @@ namespace Interfaces
         {
 
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            // Obtiene el área de trabajo de la pantalla principal (excluye barra de tareas)
+            Rectangle areaTrabajo = Screen.PrimaryScreen.WorkingArea;
+
+            // Calcula el 75% del ancho y alto
+            this.Width = (int)(areaTrabajo.Width * 1);
+            this.Height = (int)(areaTrabajo.Height * .85);
+
+            // Centra el formulario manualmente
+            this.Left = (areaTrabajo.Width - this.Width) / 2;
+            this.Top = (areaTrabajo.Height - this.Height) / 2;
+        }
+
+        private void label20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label12_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label26_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label24_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label32_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label31_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

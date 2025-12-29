@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "D:\\ProyectoFinal\\Caja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|D:\\ProyectoFinal\\Caja\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,8 +11,28 @@
       "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|D:\\ProyectoFinal\\Caja\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\pagoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\pagoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\seefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\seefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|D:\\ProyectoFinal\\Caja\\winformsapp1\\seefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\seefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|d:\\proyectofinal\\caja\\winformsapp1\\seefectivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7AECCF-221C-4983-9099-F2802CDFC223}|WinFormsApp1\\Interfaces.csproj|solutionrelative:winformsapp1\\seefectivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,45 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
-              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs",
-              "RelativeToolTip": "WinFormsApp1\\Main.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "seEfectivo.cs",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\seEfectivo.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\seEfectivo.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\seEfectivo.cs",
+              "RelativeToolTip": "WinFormsApp1\\seEfectivo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T04:04:34.518Z",
+              "WhenOpened": "2025-12-28T18:18:31.389Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
-              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp1\\Main.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T04:03:52.652Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
-              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Program.cs",
-              "RelativeToolTip": "WinFormsApp1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAoAAAAaAAAAAAAAAA==",
+              "Title": "PagoServicio.cs",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\PagoServicio.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\PagoServicio.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\PagoServicio.cs",
+              "RelativeToolTip": "WinFormsApp1\\PagoServicio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T02:46:40.872Z",
+              "WhenOpened": "2025-12-28T16:10:54.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LogIn.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\LogIn.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\LogIn.cs",
@@ -101,15 +101,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Main.Designer.cs",
-              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Main.Designer.cs",
-              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.Designer.cs",
-              "RelativeToolTip": "WinFormsApp1\\Main.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T01:04:58.713Z",
+              "WhenOpened": "2025-12-27T02:46:40.872Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:24:37.951Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\Main.cs",
+              "RelativeToolTip": "WinFormsApp1\\Main.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:26:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "seEfectivo.Designer.cs",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\seEfectivo.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\seEfectivo.Designer.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\seEfectivo.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\seEfectivo.Designer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAhwG8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:19:44.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "seEfectivo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\seEfectivo.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\seEfectivo.cs",
+              "ToolTip": "D:\\ProyectoFinal\\Caja\\WinFormsApp1\\seEfectivo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\seEfectivo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:20:37.333Z"
             }
           ]
         }
