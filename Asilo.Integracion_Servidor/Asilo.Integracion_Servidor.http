@@ -1,0 +1,6 @@
+@Asilo.Integracion_Servidor_HostAddress = http://localhost:5124
+
+GET {{Asilo.Integracion_Servidor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Asilo.Integracion_Servidor.props" />
+</Project>
